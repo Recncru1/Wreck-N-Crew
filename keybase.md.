@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am recncru1 on github.
+  * I am wreckncrew (https://keybase.io/wreckncrew) on keybase.
+  * I have a public key ASA2J_IwDzvQu94t9cTGc31zmyoMmUOA8CzQxWLCnXquwQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203627f2300f3bd0bbde2df5c4c6737d739b2a0c994380f02cd0c562c29d7aaec10a",
+      "host": "keybase.io",
+      "kid": "01203627f2300f3bd0bbde2df5c4c6737d739b2a0c994380f02cd0c562c29d7aaec10a",
+      "uid": "15250bb6ffdba8bab47b80f9bfa5ed19",
+      "username": "wreckncrew"
+    },
+    "merkle_root": {
+      "ctime": 1580344575,
+      "hash": "83188c1877f26377ee88f60fe799077196caaad0196df3bcce77c2d4d2c496d0f298578d1000519098a66a1c12d2067fb295bb7d435cfba033f578fd655984f3",
+      "hash_meta": "55a8594643412bef56ce992b2ebc1a74e1d6a657d0f150cf28deed11dbaa4a5a",
+      "seqno": 14413750
+    },
+    "service": {
+      "entropy": "22HO9EmawrGRid4tW2nsw27T",
+      "name": "github",
+      "username": "recncru1"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1580344592,
+  "expire_in": 504576000,
+  "prev": "769095213d208ed983dc6bea696f22c5de36be1cc43a1f3dc5a44d54515ec62a",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASA2J_IwDzvQu94t9cTGc31zmyoMmUOA8CzQxWLCnXquwQo](https://keybase.io/wreckncrew), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNifyMA870LveLfXExnN9c5sqDJlDgPAs0MViwp16rsEKp3BheWxvYWTESpcCBMQgdpCVIT0gjtmD3GvqaW8ixd42vhzEOh89xaRNVFFexirEIMO3yifuzhNVTo8eamCC4Ea2vP3wFXDbWcBRnO7VwZzeAgHCo3NpZ8RAdFB1H4cZWMjd2XyaEkcSjwPTidm0VxdC/Z43Ny6xuooJVECt9P9lWckvJOyAzOmAG1qWX0Lj1rB/dmWcAYBFD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINNJ5vhoeOwaGke4XzqHOnib9fywRpFVWvQFY6osmgJoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/wreckncrew
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id wreckncrew
+```
